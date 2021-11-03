@@ -14,7 +14,7 @@ function preload(){
    red_balloonImage = loadImage("red_balloon0.png");
   // red_balloonImage = loadImage("redballoon0.png");
   // red_balloonImage = loadImage("red_balloon0");
-  red_balloonImage = loadImage("red_balloon0.png");
+ // red_balloonImage = loadImage("red_balloon0.png");
   
 }
 
